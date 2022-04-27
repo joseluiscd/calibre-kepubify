@@ -4,7 +4,7 @@ class CalibreKepubify(FileTypePlugin):
 
     name                = 'Kepubify'
     description         = 'Convert all imported EPUB books to Kobo EPUB'
-    supported_platforms = ['linux']
+    supported_platforms = ['linux','osx']
     author              = 'José Luis C.D.'
     version             = (0, 0, 1)   # The version number of this plugin
     file_types          = set(['epub']) # The file types that this plugin will be applied to
