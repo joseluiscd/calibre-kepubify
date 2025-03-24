@@ -1,3 +1,5 @@
+(Deprecated, as Calibre 8.0 now can convert to KEPUB natively)
+
 # Calibre Kepubify
 Calibre plugin to convert automatically convert EPUBs to Kobo EPUBs on import using kepubify
 
